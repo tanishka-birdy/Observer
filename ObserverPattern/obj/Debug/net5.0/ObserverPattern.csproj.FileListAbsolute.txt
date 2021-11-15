@@ -1,0 +1,32 @@
+E:\AdvC#\advanced-csharp\Code\ObserverPattern\bin\Debug\net5.0\ObserverPattern.exe
+E:\AdvC#\advanced-csharp\Code\ObserverPattern\bin\Debug\net5.0\ObserverPattern.deps.json
+E:\AdvC#\advanced-csharp\Code\ObserverPattern\bin\Debug\net5.0\ObserverPattern.runtimeconfig.json
+E:\AdvC#\advanced-csharp\Code\ObserverPattern\bin\Debug\net5.0\ObserverPattern.runtimeconfig.dev.json
+E:\AdvC#\advanced-csharp\Code\ObserverPattern\bin\Debug\net5.0\ObserverPattern.dll
+E:\AdvC#\advanced-csharp\Code\ObserverPattern\bin\Debug\net5.0\ref\ObserverPattern.dll
+E:\AdvC#\advanced-csharp\Code\ObserverPattern\bin\Debug\net5.0\ObserverPattern.pdb
+E:\AdvC#\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ObserverPattern.csproj.AssemblyReference.cache
+E:\AdvC#\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdvC#\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ObserverPattern.AssemblyInfoInputs.cache
+E:\AdvC#\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ObserverPattern.AssemblyInfo.cs
+E:\AdvC#\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ObserverPattern.csproj.CoreCompileInputs.cache
+E:\AdvC#\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ObserverPattern.dll
+E:\AdvC#\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ref\ObserverPattern.dll
+E:\AdvC#\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ObserverPattern.pdb
+E:\AdvC#\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ObserverPattern.genruntimeconfig.cache
+C:\Users\320107839\Downloads\New folder (2)\advanced-csharp\Code\ObserverPattern\bin\Debug\net5.0\ObserverPattern.exe
+C:\Users\320107839\Downloads\New folder (2)\advanced-csharp\Code\ObserverPattern\bin\Debug\net5.0\ObserverPattern.deps.json
+C:\Users\320107839\Downloads\New folder (2)\advanced-csharp\Code\ObserverPattern\bin\Debug\net5.0\ObserverPattern.runtimeconfig.json
+C:\Users\320107839\Downloads\New folder (2)\advanced-csharp\Code\ObserverPattern\bin\Debug\net5.0\ObserverPattern.runtimeconfig.dev.json
+C:\Users\320107839\Downloads\New folder (2)\advanced-csharp\Code\ObserverPattern\bin\Debug\net5.0\ObserverPattern.dll
+C:\Users\320107839\Downloads\New folder (2)\advanced-csharp\Code\ObserverPattern\bin\Debug\net5.0\ref\ObserverPattern.dll
+C:\Users\320107839\Downloads\New folder (2)\advanced-csharp\Code\ObserverPattern\bin\Debug\net5.0\ObserverPattern.pdb
+C:\Users\320107839\Downloads\New folder (2)\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ObserverPattern.csproj.AssemblyReference.cache
+C:\Users\320107839\Downloads\New folder (2)\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\320107839\Downloads\New folder (2)\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\320107839\Downloads\New folder (2)\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\320107839\Downloads\New folder (2)\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\320107839\Downloads\New folder (2)\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ObserverPattern.dll
+C:\Users\320107839\Downloads\New folder (2)\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ref\ObserverPattern.dll
+C:\Users\320107839\Downloads\New folder (2)\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ObserverPattern.pdb
+C:\Users\320107839\Downloads\New folder (2)\advanced-csharp\Code\ObserverPattern\obj\Debug\net5.0\ObserverPattern.genruntimeconfig.cache
